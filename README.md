@@ -1,4 +1,4 @@
-All you have to do is download the .html file and open it with Google Chrome (or whatever browser you use).
+All you have to do is download the .html file (the file is called (sineprank v2) and open it with Google Chrome (or whatever browser you use).
 
 To play the noise, press space, and to stop it, press space again.
 
